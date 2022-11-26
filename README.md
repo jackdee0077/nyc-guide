@@ -1,7 +1,7 @@
 # New York City Guide - Django Project
-
+Daniel Jackson & Jessica Lotto
 ## To start building the project:
-
+Clone this repository to your local computer
 ### 1. Create a virtual environment
 
 At the root folder of the repository run:
