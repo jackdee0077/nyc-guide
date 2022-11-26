@@ -66,11 +66,11 @@ boroughs = {
     'queens': {
         'airports': {
             'john f kennedy international airport': {
-                'img_link': '',
+                'img_link': 'https://static.wikia.nocookie.net/the-strain/images/3/31/O-JFK-AIRPORT-facebook.jpg/revision/latest?cb=20160417031509',
                 'description': 'John F. Kennedy International Airport is an international airport in Queens, New York, USA. It is the primary international airport serving New York City.'
             },
             'laguardia airport': {
-                'img_link': '',
+                'img_link': 'https://s28477.pcdn.co/wp-content/uploads/2020/06/LGA_1-984x554.jpg',
                 'description': 'LaGuardia Airport is an airport in Queens, New York. The airport is the third busiest airport serving New York City, and the twentieth busiest in the United States. LaGuardia Airport covers 680 acres.'
             }
         },
@@ -85,33 +85,33 @@ boroughs = {
     'staten island': {
         'beaches': {
             'cedar grove beach': {
-                'img_link': '',
+                'img_link': 'https://www.nycgo.com/images/venues/6205/dsc_1827-cedar-grove-beach,s.i.-m.p._resize_edit__large.jpg',
                 'description': 'The city\'s newest beach is a converted oceanfront bungalow colony. This charming beach is smaller and somewhat more tranquil than its neighbors, Midland Beach and South Beach, and is popular with the area\'s families.'
             },
             'midland beach': {
-                'img_link': '',
+                'img_link': 'https://www.nycgo.com/images/neighborhoods/540/midlandbeach_still__large.jpg',
                 'description': 'Midland Beach shares the Franklin D. Roosevelt Boardwalk with neighboring South Beach, and tends to be the somewhat less crowded of the two beaches. The beach\'s attractions include a playground and courts for tennis and shuffleball, as well as a sea turtle fountain for children.'
             },
             'south beach': {
-                'img_link': '',
+                'img_link': 'https://www.worldbeachguide.com/photos/south-beach-staten-island.jpg',
                 'description': 'Beachgoers can sunbathe while taking in a lovely view of the Verazzano Bridge, bike through a scenic trail, jog along the boardwalk, kayak, play tennis, or fish off of the Ocean Breeze Fishing Pier, one of the city\'s most popular. A park on the beach designed especially for seniors contains chess tables, benches, and bocce courts. The beach\'s Fountain of Dolphins is a popular stop on any tour of the boardwalk.'
             },
             'wolfe\'s pond beach': {
-                'img_link': '',
+                'img_link': 'https://www.nycgovparks.org/photo_gallery/full_size/25198.jpg',
                 'description': 'Love the ocean but think NYC’s beaches are just too chaotic? Wolfe’s Pond Beach is the city’s best-kept secret, a small, calm, and secluded beach that’s a perfect retreat for those looking to get away from summer’s crowds.'
             }
         },
         'food': {
             'lee\'s tavern': {
-                'img_link': '',
+                'img_link': 'https://www.silive.com/resizer/sGHVwyB6OMdXAZkEeyEqHyproc0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JVXTK5ABSRFF5C6PNICOCP2IH4.jpg',
                 'description': 'Family-run neighborhood pub with photos on the wall serving a range of pizza & brews.'
             },
             'ralph\'s famous italian ices': {
-                'img_link': '',
+                'img_link': 'https://www.silive.com/resizer/bCjmV2g0789NUOyyp7cBwD1u1Uc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JUHF3BYNIZBP3KB5ZL2HNVEP5M.JPG',
                 'description': 'Staten Island-born chain dispensing Italian ices & ice cream in 100-plus flavors since 1928.'
             },
             'royal crown bakery': {
-                'img_link': '',
+                'img_link': 'https://royalcrownsi.com/wp-content/uploads/2021/12/o-2.jpg',
                 'description': 'A local Italian bakery serves bread, pastries & coffees, with an adjacent cucina for hot meals.'
             }
         }
