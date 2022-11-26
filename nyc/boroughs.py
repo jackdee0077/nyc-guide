@@ -2,15 +2,15 @@ boroughs = {
     'brooklyn': {
         'beaches': {
             'brighton beach': { 
-                'img_link': '',
+                'img_link': 'https://assets3.thrillist.com/v1/image/2829155/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70',
                 'description': 'Also known as "Little Odessa" due its tight-knit Russian and Eastern European communities, Brooklyn\'s Brighton Beach is a lively neighborhood with many high-rise residential buildings. \ Traditional ethnic restaurants and food markets line Brighton Beach Avenue. The beach and boardwalk here are more laid-back than nearby Coney Island, catering largely to locals. Splashy nightclubs attract partiers in the evenings.'
             },
             'coney island': {
-                'img_link': '',
+                'img_link': 'https://media.timeout.com/images/105763396/image.jpg',
                 'description': 'Coney Island is a residential Brooklyn neighborhood that morphs into a relaxation and entertainment destination each summer. Locals and tourists crowd its beach, the Wonder Wheel and Luna Park, an amusement park featuring the famed Cyclone roller coaster. Street performers, the Circus Sideshow and the Mermaid Parade in June lend an eccentric vibe. Nathan\'s Famous is known for its July 4th hot-dog eating contest.'
             },
             'manhattan beach': {
-                'img_link': '',
+                'img_link': 'https://www.nycgo.com/images/venues/2735/dsc_0285-manhattan-beach-bklyn--7-7-16--mp_resize__large.jpg',
                 'description': 'Manhattan Beach is a laid-back South Bay community popular with families and outdoor enthusiasts. The Strand bike path winds along the oceanfront between modern mansions and wide stretches of sand lined with volleyball courts. Low-key Manhattan Beach Pier features a quaint aquarium and views of surfers. There are several parks, and a small downtown area with boutiques, brunch cafes, pubs & creative, upscale eateries.'
             }
         }
@@ -18,13 +18,13 @@ boroughs = {
     'bronx': {
         'beaches': {
             'orchard beach': {
-                'img_link': '',
+                'img_link': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Orchardbeachny2.jpg',
                 'description': 'Orchard Beach, Bronx\'s sole public beach, was proclaimed "The Riviera of New York" when it was created in the 1930s. The 115-acre, 1.1-mile-long beach contains a hexagonal-block promenade, a central pavilion, snack bars, food and souvenir carts, two playgrounds, two picnic areas, a large parking lot, and 26 courts for basketball, volleyball, and handball. Changing areas and showers are available.'
             }
         },
         'zoos': {
             'bronx zoo': {
-                'img_link': '',
+                'img_link': 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Bronx_Zoo_001.jpg',
                 'description': 'The Bronx Zoo is a zoo located within Bronx Park in the Bronx, New York. It is one of the largest zoos in the United States by area, and is the largest metropolitan zoo in the United States by area, comprising 265 acres of park lands and naturalistic habitats separated by the Bronx River.'
             }
         }
@@ -32,33 +32,33 @@ boroughs = {
     'manhattan': {
         'food': {
             'cheeky sandwiches': {
-                'img_link': '',
+                'img_link': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQjLgK5nNVO-uFP0UthrdbSeNVHX31vlhMg&usqp=CAU',
                 'description': 'A hip sandwich shop offering a select menu of po’ boys & other Big Easy bites in a tiny storefront.'
             },
             'katz\'s delicatessen': {
-                'img_link': '',
+                'img_link': 'https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_334,q_75,w_579/https://assets.simpleviewinc.com/simpleview/image/upload/crm/newyorkstate/Katzs-Delicatessen-_-Photo-by-Julienne-Schaer---Courtesy-of-NYC-CO0_24d1f9ba-f255-50bc-00e77a2cd97628dc.jpg',
                 'description': 'No-frills deli with theatrically cranky service serving mile-high sandwiches since 1888.'
             },
             'veselka': {
-                'img_link': '',
+                'img_link': 'https://cdn.vox-cdn.com/thumbor/bJxp4Vt_YS_gj4ShZIms_r_p-Kw=/0x0:3295x2269/1200x675/filters:focal(1385x872:1911x1398)/cdn.vox-cdn.com/uploads/chorus_image/image/70567030/veselka.0.jpg',
                 'description': 'Borscht & pierogi are menu highlights at this cheap, no-frills Ukrainian eatery open 24 hours a day.'
             }
         },
         'parks': {
             'central park': {
-                'img_link': '',
+                'img_link': 'https://media.timeout.com/images/103257144/image.jpg',
                 'description': 'Central Park is an urban park in New York City located between the Upper West and Upper East Sides of Manhattan. It is the fifth-largest park in the city by area, covering 843 acres.'
             },
             'riverside park': {
-                'img_link': '',
+                'img_link': 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Riverside_Park_03.jpg',
                 'description': 'Riverside Park is a scenic waterfront public park in the Upper West Side, Morningside Heights, and Hamilton Heights neighborhoods of the borough of Manhattan in New York City.'
             },
             'the highline':  {
-                'img_link': '',
+                'img_link': 'https://upload.wikimedia.org/wikipedia/commons/5/56/AHigh_Line_Park%2C_Section_1a.jpg',
                 'description': 'The High Line is a 1.45-mile-long elevated linear park, greenway and rail trail created on a former New York Central Railroad spur on the west side of Manhattan in New York City. The High Line\'s design is a collaboration between James Corner Field Operations, Diller Scofidio + Renfro, and Piet Oudolf.'
             },
             'washington square park':  {
-                'img_link': '',
+                'img_link': 'https://www.newyorklatinculture.com/wp-content/uploads/2021/09/Washington-Square-Park-copyright-Espiegle-Adobe-1200x628-1-1024x536.jpg',
                 'description': 'Washington Square Park is a 9.75-acre public park in the Greenwich Village neighborhood of Lower Manhattan, New York City. One of the best known of New York City\'s public parks, it is an icon as well as a meeting place and center for cultural activity.'
             }
         }
@@ -76,7 +76,7 @@ boroughs = {
         },
         'beaches': {
             'rockaway beaches': {
-                'img_link': '',
+                'img_link': 'https://static01.nyt.com/images/2019/07/07/travel/04Hours-Rockaway-Queens3/merlin_156944274_1fb5102b-9e72-4e98-b3e2-8269c534fd5c-superJumbo.jpg',
                 'description': 'From surfers to swimmers to the Ramones, everyone wants to "hitch a ride to Rockaway Beach." Rockaway Beach is a year-round resource for residents all along the Rockaway peninsula, and it comes alive each summer with millions of visitors. Beach goers can enjoy the sand and water, the variety of concessions, and the city\'s only legal surfing beaches. Rockaway Beach is also home to a variety of playgrounds and other outdoor activities.'
             }
         }
